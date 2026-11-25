@@ -1449,3 +1449,12 @@ CommonEnemies.add "赛博刺客"
   }
 }
 ```
+
+---
+
+## 许可
+
+本手册由 **dixieWithHeart** 编写，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可：
+可自由转载与改编，需署名、不得商用、衍生作品需以同一协议共享。
+
+问题、纠错与补充，欢迎提 Issue。
